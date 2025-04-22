@@ -44,7 +44,8 @@ yarn dev
 ## Tech Stack
 
 - Vite
-- React 18
+- React 19
+- Next 15
 - TypeScript
 - Tailwind CSS
 - shadcn/ui (Component Library)
